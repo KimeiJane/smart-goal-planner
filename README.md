@@ -65,4 +65,4 @@ Each goal has the following properties:
 - React.js
 - JSON Server for the REST API
 - JavaScript/ES6+
-- CSS for styling
+- CSS for styling# smartgoalplanner
